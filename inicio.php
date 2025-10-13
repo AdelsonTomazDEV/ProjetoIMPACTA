@@ -147,35 +147,36 @@ input[type="submit"]{
                     <td><input type="time" name="intervalo" required></td>
                     <td><input type="time" name="saida" required></td>
                 </tr>
-            </table>
+</table>
             <br>
             <input type="submit" name= "registrar_ponto" value="Registrar Ponto">
 
+                <div>
+        <form action="" method="">
 
+        <h2>Histórico de Registros</h2>
+<table>
+<tr>
+                    <th>Data</th>
+                    <th>Entrada</th>
+                    <th>Intervalo</th>
+                    <th>Saída</th>
 
-            <!-- <div class= data>
-<label for="data">Data</label>
-<input type="time" id= "data" name= "data" required> 
-</div>
-<br><br>
+                 
+</tr>
+</table>
 
-<div class= entrada>
-    <label for="entrada">Entrada</label>
-<input type="time" id="entrada" name="entrada" required></div>
-<br><br>
-
-<div class= intervalo>
-    <label for="intervalo">Intervalo</label>
-<input type="time" id= "intervalo" name="intervalo" required></div>
-<br><br>
-
-<div class= saida>
-<label for="saida">Saida</label>
-<input type="time" id="saida" name="saida" required></div> -->
-
-
-        </form>
+</form>
     </div>
+
+
+
+       
+
+
+        </form><br><br>
+    </div>
+
 
 </body>
 
