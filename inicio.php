@@ -167,7 +167,7 @@
         <?php
         $hoje = date('Y-m-d'); // data atual
         ?>
-        <form action="conexao_register_horas.php" method="post">
+        <form action="" method="post">
             <table border="1" style="border-collapse: collapse; width: 70%;">
                 <tr>
                     <th>Data</th>
