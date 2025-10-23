@@ -10,5 +10,6 @@ Sistema web para registrar entradas e saídas de funcionários, permitindo contr
   Tecnologias Utilizadas
 - PHP
 - MySQL 
+- Apache via XAMPP
 - HTML/CSS  
 
